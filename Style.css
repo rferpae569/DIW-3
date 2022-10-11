@@ -1,0 +1,54 @@
+body{
+    background-color: aquamarine
+}
+
+footer{
+    text-decoration: underline;
+    font-style: italic;
+}
+
+h1,h2,h3{
+    text-align: center;
+}
+
+h1,h2{
+    text-decoration: underline;
+}
+
+h3{
+    font-style: italic;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+p,ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a:hover{
+    color: orange;
+}
+
+a:visited{
+    color: red;
+}
+
+#Noticia1{
+    background-color: blanchedalmond;
+    border-style: dashed;
+    border-color: brown;
+}
+
+#Noticia2{
+    background-color: pink;
+    border-style: double;
+    border-color: blue;
+}
+
+#Noticia3{
+    background-color: lightsalmon;
+    border-style: groove;
+    border-color: blueviolet;
+}
